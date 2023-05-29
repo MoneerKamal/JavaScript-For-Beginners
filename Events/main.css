@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1%;
+  margin: 0;
+}
+
+#section1 {
+  width: 500px;
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1%;
+  height: 500px;
+}
+
+#view1 {
+  width: 350px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 350px;
+}
+#view1 h2 {
+  width: 200px;
+  background-color: black;
+  display: flex;
+  color: #fff;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+
+  height: 200px;
+}
